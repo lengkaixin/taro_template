@@ -1,3 +1,4 @@
+// 自定义 tabBar
 import React, { useState } from 'react';
 import { View } from '@tarojs/components';
 
